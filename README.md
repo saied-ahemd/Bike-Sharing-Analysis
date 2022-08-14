@@ -1,6 +1,6 @@
 # **Bike-Sharing-Analysis**
 
-![a man and a woman running](https://mir-s3-cdn-cf.behance.net/project_modules/disp/c50d0614878803.5628a3fb8c04e.png)
+![a man and a woman running](https://t3.ftcdn.net/jpg/03/08/19/56/360_F_308195667_lZx6Y7u42bbj1ixy8UtIki3rnooI900k.jpg)
 *Image: Getty Images/iStock*
 
 ## Summary 
