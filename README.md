@@ -1,6 +1,6 @@
 # **Bike-Sharing-Analysis**
 
-![a man and a woman running](https://t3.ftcdn.net/jpg/03/53/15/60/360_F_353156091_ZtJrJ8mNeEVbS5fWRNauqxr9s730Edme.jpg)
+![Bike sharing](https://t3.ftcdn.net/jpg/03/53/15/60/360_F_353156091_ZtJrJ8mNeEVbS5fWRNauqxr9s730Edme.jpg)
 *Image: Getty Images/iStock*
 
 ## Summary 
